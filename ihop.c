@@ -21,7 +21,6 @@ int main(){
 
 }
 
-
 int flip(char *stack){
    int pos = 0;
    int flips = 0;
